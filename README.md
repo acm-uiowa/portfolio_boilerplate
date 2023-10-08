@@ -65,7 +65,7 @@ If you make a change and nothing happens, just refresh the page, changes should 
 
 Google how to do this, many resources for a variety of ways
 
-*Free ways to host**:
+**Free ways to host**:
 1. Github pages
 2. Netlify
 3. Vercel
